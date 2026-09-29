@@ -1,0 +1,501 @@
+student_id,name,grade,year,subject,score,attendance,activity,activity_category,activity_level
+1,Aarav Rao,6,2020,Math,72,91,School Cricket Team,Sports,School
+1,Aarav Rao,6,2020,Science,70,91,,,
+1,Aarav Rao,6,2020,English,68,91,,,
+1,Aarav Rao,6,2020,Social Studies,65,91,,,
+1,Aarav Rao,7,2021,Math,76,89,Robotics Club Joined,Technical,School
+1,Aarav Rao,7,2021,Science,74,89,District Cricket Selection,Sports,District
+1,Aarav Rao,7,2021,English,69,89,,,
+1,Aarav Rao,7,2021,Social Studies,66,89,,,
+1,Aarav Rao,8,2022,Math,80,93,Robotics Club,Technical,School
+1,Aarav Rao,8,2022,Science,79,93,Science Exhibition,Technical,School
+1,Aarav Rao,8,2022,English,70,93,Debate Club,Leadership,School
+1,Aarav Rao,8,2022,Social Studies,68,93,,,
+1,Aarav Rao,9,2023,Math,84,95,Robotics Club Captain,Leadership,School
+1,Aarav Rao,9,2023,Science,85,95,State Science Olympiad,Technical,State
+1,Aarav Rao,9,2023,English,72,95,Debate Club Captain,Leadership,School
+1,Aarav Rao,9,2023,Social Studies,70,95,,,
+1,Aarav Rao,10,2024,Math,87,94,Robotics Club Captain,Leadership,School
+1,Aarav Rao,10,2024,Science,88,94,National Science Olympiad,Technical,National
+1,Aarav Rao,10,2024,English,73,94,Debate Club Captain,Leadership,School
+1,Aarav Rao,10,2024,Social Studies,71,94,,,
+2,Diya Mehta,6,2020,Math,65,88,School Choir,Arts,School
+2,Diya Mehta,6,2020,Science,68,88,,,
+2,Diya Mehta,6,2020,English,75,88,,,
+2,Diya Mehta,6,2020,Social Studies,78,88,,,
+2,Diya Mehta,7,2021,Math,62,90,School Choir,Arts,School
+2,Diya Mehta,7,2021,Science,70,90,District Painting Contest,Arts,District
+2,Diya Mehta,7,2021,English,78,90,Elocution Winner,Leadership,School
+2,Diya Mehta,7,2021,Social Studies,80,90,,,
+2,Diya Mehta,8,2022,Math,60,85,School Choir Lead,Arts,School
+2,Diya Mehta,8,2022,Science,72,85,State Painting Contest,Arts,State
+2,Diya Mehta,8,2022,English,82,85,School Magazine Editor,Leadership,School
+2,Diya Mehta,8,2022,Social Studies,83,85,NGO Volunteering,Social Work,School
+2,Diya Mehta,9,2023,Math,58,87,School Choir Lead,Arts,School
+2,Diya Mehta,9,2023,Science,75,87,State Painting 1st Prize,Arts,State
+2,Diya Mehta,9,2023,English,85,87,Student Council Secretary,Leadership,School
+2,Diya Mehta,9,2023,Social Studies,86,87,NGO Volunteering Lead,Social Work,District
+2,Diya Mehta,10,2024,Math,55,86,School Choir Lead,Arts,School
+2,Diya Mehta,10,2024,Science,78,86,National Painting Exhibition,Arts,National
+2,Diya Mehta,10,2024,English,88,86,Student Council President,Leadership,School
+2,Diya Mehta,10,2024,Social Studies,89,86,NGO Volunteering Lead,Social Work,State
+3,Karthik Iyer,6,2020,Math,55,82,District Football Team,Sports,District
+3,Karthik Iyer,6,2020,Science,58,82,,,
+3,Karthik Iyer,6,2020,English,60,82,,,
+3,Karthik Iyer,6,2020,Social Studies,57,82,,,
+3,Karthik Iyer,7,2021,Math,52,80,State Football Selection,Sports,State
+3,Karthik Iyer,7,2021,Science,55,80,,,
+3,Karthik Iyer,7,2021,English,58,80,,,
+3,Karthik Iyer,7,2021,Social Studies,55,80,,,
+3,Karthik Iyer,8,2022,Math,50,79,State Football Team,Sports,State
+3,Karthik Iyer,8,2022,Science,53,79,,,
+3,Karthik Iyer,8,2022,English,56,79,Team Captain,Leadership,School
+3,Karthik Iyer,8,2022,Social Studies,54,79,,,
+3,Karthik Iyer,9,2023,Math,48,77,National Football Camp,Sports,National
+3,Karthik Iyer,9,2023,Science,50,77,,,
+3,Karthik Iyer,9,2023,English,55,77,Team Captain,Leadership,School
+3,Karthik Iyer,9,2023,Social Studies,52,77,,,
+3,Karthik Iyer,10,2024,Math,47,76,National Football 2nd Prize,Sports,National
+3,Karthik Iyer,10,2024,Science,49,76,,,
+3,Karthik Iyer,10,2024,English,54,76,Team Captain,Leadership,School
+3,Karthik Iyer,10,2024,Social Studies,51,76,,,
+4,Priya Sharma,6,2020,Math,80,92,School Dance Team,Arts,School
+4,Priya Sharma,6,2020,Science,75,92,,,
+4,Priya Sharma,6,2020,English,82,92,,,
+4,Priya Sharma,6,2020,Hindi,85,92,,,
+4,Priya Sharma,7,2021,Math,78,94,Classical Dance Competition,Arts,District
+4,Priya Sharma,7,2021,Science,77,94,,,
+4,Priya Sharma,7,2021,English,85,94,School Play Lead,Arts,School
+4,Priya Sharma,7,2021,Hindi,88,94,,,
+4,Priya Sharma,8,2022,Math,76,93,State Dance Championship,Arts,State
+4,Priya Sharma,8,2022,Science,79,93,,,
+4,Priya Sharma,8,2022,English,88,93,School Play Director,Arts,School
+4,Priya Sharma,8,2022,Hindi,90,93,,,
+4,Priya Sharma,9,2023,Math,74,95,National Dance Competition,Arts,National
+4,Priya Sharma,9,2023,Science,80,95,Hindi Debate Winner,Leadership,State
+4,Priya Sharma,9,2023,English,90,95,,,
+4,Priya Sharma,9,2023,Hindi,92,95,,,
+4,Priya Sharma,10,2024,Math,72,96,National Dance 1st Prize,Arts,National
+4,Priya Sharma,10,2024,Science,82,96,,,
+4,Priya Sharma,10,2024,English,92,96,,,
+4,Priya Sharma,10,2024,Hindi,94,96,,,
+5,Rohan Verma,6,2020,Math,88,90,Math Olympiad,Technical,School
+5,Rohan Verma,6,2020,Science,85,90,,,
+5,Rohan Verma,6,2020,English,70,90,,,
+5,Rohan Verma,6,2020,Social Studies,68,90,,,
+5,Rohan Verma,7,2021,Math,90,91,District Math Olympiad,Technical,District
+5,Rohan Verma,7,2021,Science,87,91,Science Club,Technical,School
+5,Rohan Verma,7,2021,English,72,91,,,
+5,Rohan Verma,7,2021,Social Studies,70,91,,,
+5,Rohan Verma,8,2022,Math,93,92,State Math Olympiad 2nd Prize,Technical,State
+5,Rohan Verma,8,2022,Science,90,92,Science Club Lead,Technical,School
+5,Rohan Verma,8,2022,English,74,92,,,
+5,Rohan Verma,8,2022,Social Studies,72,92,,,
+5,Rohan Verma,9,2023,Math,95,93,National Math Olympiad,Technical,National
+5,Rohan Verma,9,2023,Science,92,93,Coding Club Founded,Technical,School
+5,Rohan Verma,9,2023,English,76,93,,,
+5,Rohan Verma,9,2023,Social Studies,74,93,,,
+5,Rohan Verma,10,2024,Math,97,94,National Math Olympiad 1st Prize,Technical,National
+5,Rohan Verma,10,2024,Science,94,94,Coding Club President,Leadership,School
+5,Rohan Verma,10,2024,English,78,94,,,
+5,Rohan Verma,10,2024,Social Studies,76,94,,,
+6,Sneha Pillai,6,2020,Math,60,85,School Volleyball,Sports,School
+6,Sneha Pillai,6,2020,Science,72,85,,,
+6,Sneha Pillai,6,2020,English,78,85,,,
+6,Sneha Pillai,6,2020,Social Studies,80,85,,,
+6,Sneha Pillai,7,2021,Math,58,84,District Volleyball,Sports,District
+6,Sneha Pillai,7,2021,Science,74,84,,,
+6,Sneha Pillai,7,2021,English,80,84,Class Representative,Leadership,School
+6,Sneha Pillai,7,2021,Social Studies,82,84,,,
+6,Sneha Pillai,8,2022,Math,56,86,State Volleyball Team,Sports,State
+6,Sneha Pillai,8,2022,Science,76,86,,,
+6,Sneha Pillai,8,2022,English,83,86,School Council Member,Leadership,School
+6,Sneha Pillai,8,2022,Social Studies,85,86,Blood Donation Camp Organizer,Social Work,School
+6,Sneha Pillai,9,2023,Math,54,87,State Volleyball Captain,Sports,State
+6,Sneha Pillai,9,2023,Science,78,87,,,
+6,Sneha Pillai,9,2023,English,85,87,School Council Vice President,Leadership,School
+6,Sneha Pillai,9,2023,Social Studies,87,87,District Social Work Award,Social Work,District
+6,Sneha Pillai,10,2024,Math,52,88,National Volleyball Camp,Sports,National
+6,Sneha Pillai,10,2024,Science,80,88,,,
+6,Sneha Pillai,10,2024,English,87,88,School Council President,Leadership,School
+6,Sneha Pillai,10,2024,Social Studies,89,88,State Social Work Recognition,Social Work,State
+7,Arjun Nair,6,2020,Math,75,88,School Chess Club,Technical,School
+7,Arjun Nair,6,2020,Science,78,88,,,
+7,Arjun Nair,6,2020,English,72,88,,,
+7,Arjun Nair,6,2020,Social Studies,70,88,,,
+7,Arjun Nair,7,2021,Math,78,89,District Chess Champion,Technical,District
+7,Arjun Nair,7,2021,Science,80,89,,,
+7,Arjun Nair,7,2021,English,74,89,,,
+7,Arjun Nair,7,2021,Social Studies,72,89,,,
+7,Arjun Nair,8,2022,Math,80,90,State Chess 2nd Prize,Technical,State
+7,Arjun Nair,8,2022,Science,83,90,,,
+7,Arjun Nair,8,2022,English,76,90,,,
+7,Arjun Nair,8,2022,Social Studies,74,90,,,
+7,Arjun Nair,9,2023,Math,83,91,National Chess Tournament,Technical,National
+7,Arjun Nair,9,2023,Science,86,91,,,
+7,Arjun Nair,9,2023,English,78,91,,,
+7,Arjun Nair,9,2023,Social Studies,76,91,,,
+7,Arjun Nair,10,2024,Math,86,92,National Chess 3rd Prize,Technical,National
+7,Arjun Nair,10,2024,Science,88,92,,,
+7,Arjun Nair,10,2024,English,80,92,,,
+7,Arjun Nair,10,2024,Social Studies,78,92,,,
+8,Kavya Reddy,6,2020,Math,70,90,School Swimming,Sports,School
+8,Kavya Reddy,6,2020,Science,68,90,,,
+8,Kavya Reddy,6,2020,English,65,90,,,
+8,Kavya Reddy,6,2020,Social Studies,63,90,,,
+8,Kavya Reddy,7,2021,Math,72,91,District Swimming,Sports,District
+8,Kavya Reddy,7,2021,Science,70,91,,,
+8,Kavya Reddy,7,2021,English,67,91,,,
+8,Kavya Reddy,7,2021,Social Studies,65,91,,,
+8,Kavya Reddy,8,2022,Math,74,92,State Swimming 1st Prize,Sports,State
+8,Kavya Reddy,8,2022,Science,72,92,,,
+8,Kavya Reddy,8,2022,English,69,92,,,
+8,Kavya Reddy,8,2022,Social Studies,67,92,,,
+8,Kavya Reddy,9,2023,Math,76,93,National Swimming Camp,Sports,National
+8,Kavya Reddy,9,2023,Science,74,93,,,
+8,Kavya Reddy,9,2023,English,71,93,,,
+8,Kavya Reddy,9,2023,Social Studies,69,93,,,
+8,Kavya Reddy,10,2024,Math,78,94,National Swimming 2nd Prize,Sports,National
+8,Kavya Reddy,10,2024,Science,76,94,,,
+8,Kavya Reddy,10,2024,English,73,94,,,
+8,Kavya Reddy,10,2024,Social Studies,71,94,,,
+9,Ishaan Gupta,6,2020,Math,65,80,School Band,Arts,School
+9,Ishaan Gupta,6,2020,Science,60,80,,,
+9,Ishaan Gupta,6,2020,English,75,80,,,
+9,Ishaan Gupta,6,2020,Social Studies,72,80,,,
+9,Ishaan Gupta,7,2021,Math,63,82,School Band Lead,Arts,School
+9,Ishaan Gupta,7,2021,Science,62,82,District Music Competition,Arts,District
+9,Ishaan Gupta,7,2021,English,77,82,,,
+9,Ishaan Gupta,7,2021,Social Studies,74,82,,,
+9,Ishaan Gupta,8,2022,Math,61,83,State Music Competition,Arts,State
+9,Ishaan Gupta,8,2022,Science,64,83,,,
+9,Ishaan Gupta,8,2022,English,79,83,Creative Writing Club,Arts,School
+9,Ishaan Gupta,8,2022,Social Studies,76,83,,,
+9,Ishaan Gupta,9,2023,Math,59,84,State Music 1st Prize,Arts,State
+9,Ishaan Gupta,9,2023,Science,66,84,,,
+9,Ishaan Gupta,9,2023,English,82,84,School Literary Club Head,Leadership,School
+9,Ishaan Gupta,9,2023,Social Studies,78,84,,,
+9,Ishaan Gupta,10,2024,Math,57,85,National Music Festival,Arts,National
+9,Ishaan Gupta,10,2024,Science,68,85,,,
+9,Ishaan Gupta,10,2024,English,85,85,Published School Magazine,Arts,School
+9,Ishaan Gupta,10,2024,Social Studies,80,85,,,
+10,Ananya Singh,6,2020,Math,82,93,School Badminton,Sports,School
+10,Ananya Singh,6,2020,Science,84,93,,,
+10,Ananya Singh,6,2020,English,80,93,,,
+10,Ananya Singh,6,2020,Social Studies,78,93,,,
+10,Ananya Singh,7,2021,Math,84,94,District Badminton Winner,Sports,District
+10,Ananya Singh,7,2021,Science,86,94,Science Fair 2nd Prize,Technical,School
+10,Ananya Singh,7,2021,English,82,94,,,
+10,Ananya Singh,7,2021,Social Studies,80,94,,,
+10,Ananya Singh,8,2022,Math,86,95,State Badminton,Sports,State
+10,Ananya Singh,8,2022,Science,88,95,District Science Fair Winner,Technical,District
+10,Ananya Singh,8,2022,English,84,95,,,
+10,Ananya Singh,8,2022,Social Studies,82,95,,,
+10,Ananya Singh,9,2023,Math,88,96,National Badminton Camp,Sports,National
+10,Ananya Singh,9,2023,Science,90,96,State Science Fair 1st Prize,Technical,State
+10,Ananya Singh,9,2023,English,86,96,,,
+10,Ananya Singh,9,2023,Social Studies,84,96,,,
+10,Ananya Singh,10,2024,Math,90,97,National Badminton Runner Up,Sports,National
+10,Ananya Singh,10,2024,Science,92,97,National Science Exhibition,Technical,National
+10,Ananya Singh,10,2024,English,88,97,,,
+10,Ananya Singh,10,2024,Social Studies,86,97,,,
+11,Rahul Joshi,6,2020,Math,58,78,School Drama Club,Arts,School
+11,Rahul Joshi,6,2020,Science,55,78,,,
+11,Rahul Joshi,6,2020,English,70,78,,,
+11,Rahul Joshi,6,2020,Social Studies,68,78,,,
+11,Rahul Joshi,7,2021,Math,56,79,District Drama Festival,Arts,District
+11,Rahul Joshi,7,2021,Science,57,79,,,
+11,Rahul Joshi,7,2021,English,72,79,,,
+11,Rahul Joshi,7,2021,Social Studies,70,79,,,
+11,Rahul Joshi,8,2022,Math,54,80,State Drama Competition,Arts,State
+11,Rahul Joshi,8,2022,Science,59,80,,,
+11,Rahul Joshi,8,2022,English,75,80,Street Play for Social Cause,Social Work,School
+11,Rahul Joshi,8,2022,Social Studies,72,80,,,
+11,Rahul Joshi,9,2023,Math,52,81,State Drama 1st Prize,Arts,State
+11,Rahul Joshi,9,2023,Science,61,81,,,
+11,Rahul Joshi,9,2023,English,78,81,Community Theatre Lead,Social Work,District
+11,Rahul Joshi,9,2023,Social Studies,75,81,,,
+11,Rahul Joshi,10,2024,Math,50,82,National Youth Theatre,Arts,National
+11,Rahul Joshi,10,2024,Science,63,82,,,
+11,Rahul Joshi,10,2024,English,81,82,State Social Awareness Award,Social Work,State
+11,Rahul Joshi,10,2024,Social Studies,78,82,,,
+12,Meera Krishnan,6,2020,Math,88,95,School Quiz Team,Technical,School
+12,Meera Krishnan,6,2020,Science,90,95,,,
+12,Meera Krishnan,6,2020,English,85,95,,,
+12,Meera Krishnan,6,2020,Social Studies,82,95,,,
+12,Meera Krishnan,7,2021,Math,90,96,District Quiz Champion,Technical,District
+12,Meera Krishnan,7,2021,Science,92,96,Biology Olympiad,Technical,School
+12,Meera Krishnan,7,2021,English,87,96,,,
+12,Meera Krishnan,7,2021,Social Studies,84,96,,,
+12,Meera Krishnan,8,2022,Math,92,97,State Quiz Winner,Technical,State
+12,Meera Krishnan,8,2022,Science,94,97,State Biology Olympiad,Technical,State
+12,Meera Krishnan,8,2022,English,89,97,,,
+12,Meera Krishnan,8,2022,Social Studies,86,97,,,
+12,Meera Krishnan,9,2023,Math,93,98,National Quiz Competition,Technical,National
+12,Meera Krishnan,9,2023,Science,96,98,National Biology Olympiad 2nd,Technical,National
+12,Meera Krishnan,9,2023,English,91,98,,,
+12,Meera Krishnan,9,2023,Social Studies,88,98,,,
+12,Meera Krishnan,10,2024,Math,94,98,National Quiz 1st Prize,Technical,National
+12,Meera Krishnan,10,2024,Science,97,98,National Biology Olympiad 1st,Technical,National
+12,Meera Krishnan,10,2024,English,92,98,,,
+12,Meera Krishnan,10,2024,Social Studies,90,98,,,
+13,Vikram Patel,6,2020,Math,68,83,School Basketball,Sports,School
+13,Vikram Patel,6,2020,Science,65,83,,,
+13,Vikram Patel,6,2020,English,62,83,,,
+13,Vikram Patel,6,2020,Social Studies,60,83,,,
+13,Vikram Patel,7,2021,Math,70,84,District Basketball,Sports,District
+13,Vikram Patel,7,2021,Science,67,84,,,
+13,Vikram Patel,7,2021,English,64,84,,,
+13,Vikram Patel,7,2021,Social Studies,62,84,,,
+13,Vikram Patel,8,2022,Math,72,85,State Basketball Team,Sports,State
+13,Vikram Patel,8,2022,Science,69,85,,,
+13,Vikram Patel,8,2022,English,66,85,Team Captain,Leadership,School
+13,Vikram Patel,8,2022,Social Studies,64,85,,,
+13,Vikram Patel,9,2023,Math,74,86,State Basketball Captain,Sports,State
+13,Vikram Patel,9,2023,Science,71,86,,,
+13,Vikram Patel,9,2023,English,68,86,Sports Committee Head,Leadership,School
+13,Vikram Patel,9,2023,Social Studies,66,86,,,
+13,Vikram Patel,10,2024,Math,76,87,National Basketball Trials,Sports,National
+13,Vikram Patel,10,2024,Science,73,87,,,
+13,Vikram Patel,10,2024,English,70,87,Sports Committee Head,Leadership,School
+13,Vikram Patel,10,2024,Social Studies,68,87,,,
+14,Nisha Agarwal,6,2020,Math,75,89,School Art Club,Arts,School
+14,Nisha Agarwal,6,2020,Science,70,89,,,
+14,Nisha Agarwal,6,2020,English,80,89,,,
+14,Nisha Agarwal,6,2020,Social Studies,82,89,,,
+14,Nisha Agarwal,7,2021,Math,73,90,District Art Competition,Arts,District
+14,Nisha Agarwal,7,2021,Science,72,90,,,
+14,Nisha Agarwal,7,2021,English,83,90,Creative Writing Award,Arts,School
+14,Nisha Agarwal,7,2021,Social Studies,84,90,,,
+14,Nisha Agarwal,8,2022,Math,71,91,State Art Exhibition,Arts,State
+14,Nisha Agarwal,8,2022,Science,74,91,,,
+14,Nisha Agarwal,8,2022,English,86,91,Published Short Story,Arts,School
+14,Nisha Agarwal,8,2022,Social Studies,86,91,,,
+14,Nisha Agarwal,9,2023,Math,69,92,State Art 1st Prize,Arts,State
+14,Nisha Agarwal,9,2023,Science,76,92,,,
+14,Nisha Agarwal,9,2023,English,89,92,District Writing Competition Winner,Arts,District
+14,Nisha Agarwal,9,2023,Social Studies,88,92,,,
+14,Nisha Agarwal,10,2024,Math,67,93,National Art Exhibition,Arts,National
+14,Nisha Agarwal,10,2024,Science,78,93,,,
+14,Nisha Agarwal,10,2024,English,92,93,National Writing Award,Arts,National
+14,Nisha Agarwal,10,2024,Social Studies,90,93,,,
+15,Siddharth Menon,6,2020,Math,90,94,Math Club,Technical,School
+15,Siddharth Menon,6,2020,Science,88,94,,,
+15,Siddharth Menon,6,2020,English,75,94,,,
+15,Siddharth Menon,6,2020,Social Studies,72,94,,,
+15,Siddharth Menon,7,2021,Math,92,95,District Math Champion,Technical,District
+15,Siddharth Menon,7,2021,Science,90,95,Astronomy Club,Technical,School
+15,Siddharth Menon,7,2021,English,77,95,,,
+15,Siddharth Menon,7,2021,Social Studies,74,95,,,
+15,Siddharth Menon,8,2022,Math,94,96,State Math Olympiad Winner,Technical,State
+15,Siddharth Menon,8,2022,Science,92,96,Astronomy Club Lead,Technical,School
+15,Siddharth Menon,8,2022,English,79,96,,,
+15,Siddharth Menon,8,2022,Social Studies,76,96,,,
+15,Siddharth Menon,9,2023,Math,96,97,National Math Olympiad 2nd,Technical,National
+15,Siddharth Menon,9,2023,Science,94,97,State Astronomy Competition,Technical,State
+15,Siddharth Menon,9,2023,English,81,97,,,
+15,Siddharth Menon,9,2023,Social Studies,78,97,,,
+15,Siddharth Menon,10,2024,Math,98,98,National Math Olympiad 1st,Technical,National
+15,Siddharth Menon,10,2024,Science,96,98,National Astronomy Award,Technical,National
+15,Siddharth Menon,10,2024,English,83,98,,,
+15,Siddharth Menon,10,2024,Social Studies,80,98,,,
+16,Pooja Desai,6,2020,Math,62,86,School NCC,Social Work,School
+16,Pooja Desai,6,2020,Science,65,86,,,
+16,Pooja Desai,6,2020,English,78,86,,,
+16,Pooja Desai,6,2020,Social Studies,80,86,,,
+16,Pooja Desai,7,2021,Math,64,87,NCC Cadet,Social Work,School
+16,Pooja Desai,7,2021,Science,67,87,,,
+16,Pooja Desai,7,2021,English,80,87,Cleanliness Drive Leader,Social Work,School
+16,Pooja Desai,7,2021,Social Studies,82,87,,,
+16,Pooja Desai,8,2022,Math,66,88,NCC Best Cadet Award,Social Work,District
+16,Pooja Desai,8,2022,Science,69,88,,,
+16,Pooja Desai,8,2022,English,82,88,District NSS Award,Social Work,District
+16,Pooja Desai,8,2022,Social Studies,84,88,,,
+16,Pooja Desai,9,2023,Math,68,89,NCC State Camp,Social Work,State
+16,Pooja Desai,9,2023,Science,71,89,,,
+16,Pooja Desai,9,2023,English,84,89,State NSS Volunteer Award,Social Work,State
+16,Pooja Desai,9,2023,Social Studies,86,89,,,
+16,Pooja Desai,10,2024,Math,70,90,NCC Republic Day Parade,Social Work,National
+16,Pooja Desai,10,2024,Science,73,90,,,
+16,Pooja Desai,10,2024,English,86,90,National NSS Award,Social Work,National
+16,Pooja Desai,10,2024,Social Studies,88,90,,,
+17,Aditya Kumar,6,2020,Math,78,88,School Table Tennis,Sports,School
+17,Aditya Kumar,6,2020,Science,75,88,,,
+17,Aditya Kumar,6,2020,English,68,88,,,
+17,Aditya Kumar,6,2020,Social Studies,66,88,,,
+17,Aditya Kumar,7,2021,Math,80,89,District Table Tennis Winner,Sports,District
+17,Aditya Kumar,7,2021,Science,77,89,,,
+17,Aditya Kumar,7,2021,English,70,89,,,
+17,Aditya Kumar,7,2021,Social Studies,68,89,,,
+17,Aditya Kumar,8,2022,Math,82,90,State Table Tennis,Sports,State
+17,Aditya Kumar,8,2022,Science,79,90,,,
+17,Aditya Kumar,8,2022,English,72,90,,,
+17,Aditya Kumar,8,2022,Social Studies,70,90,,,
+17,Aditya Kumar,9,2023,Math,84,91,National Table Tennis Camp,Sports,National
+17,Aditya Kumar,9,2023,Science,81,91,,,
+17,Aditya Kumar,9,2023,English,74,91,,,
+17,Aditya Kumar,9,2023,Social Studies,72,91,,,
+17,Aditya Kumar,10,2024,Math,86,92,National Table Tennis 3rd Prize,Sports,National
+17,Aditya Kumar,10,2024,Science,83,92,,,
+17,Aditya Kumar,10,2024,English,76,92,,,
+17,Aditya Kumar,10,2024,Social Studies,74,92,,,
+18,Riya Bose,6,2020,Math,72,87,School Debate Club,Leadership,School
+18,Riya Bose,6,2020,Science,70,87,,,
+18,Riya Bose,6,2020,English,82,87,,,
+18,Riya Bose,6,2020,Social Studies,80,87,,,
+18,Riya Bose,7,2021,Math,74,88,District Debate Winner,Leadership,District
+18,Riya Bose,7,2021,Science,72,88,,,
+18,Riya Bose,7,2021,English,85,88,,,
+18,Riya Bose,7,2021,Social Studies,83,88,,,
+18,Riya Bose,8,2022,Math,76,89,State Debate Competition,Leadership,State
+18,Riya Bose,8,2022,Science,74,89,,,
+18,Riya Bose,8,2022,English,88,89,MUN Best Delegate,Leadership,School
+18,Riya Bose,8,2022,Social Studies,86,89,,,
+18,Riya Bose,9,2023,Math,78,90,National Debate Runner Up,Leadership,National
+18,Riya Bose,9,2023,Science,76,90,,,
+18,Riya Bose,9,2023,English,91,90,MUN Secretary General,Leadership,District
+18,Riya Bose,9,2023,Social Studies,89,90,,,
+18,Riya Bose,10,2024,Math,80,91,National Debate 1st Prize,Leadership,National
+18,Riya Bose,10,2024,Science,78,91,,,
+18,Riya Bose,10,2024,English,93,91,MUN Secretary General,Leadership,State
+18,Riya Bose,10,2024,Social Studies,91,91,,,
+19,Tanvi Shah,6,2020,Math,65,84,School Yoga Team,Sports,School
+19,Tanvi Shah,6,2020,Science,68,84,,,
+19,Tanvi Shah,6,2020,English,72,84,,,
+19,Tanvi Shah,6,2020,Social Studies,75,84,,,
+19,Tanvi Shah,7,2021,Math,67,85,District Yoga Competition,Sports,District
+19,Tanvi Shah,7,2021,Science,70,85,,,
+19,Tanvi Shah,7,2021,English,74,85,Meditation Club,Social Work,School
+19,Tanvi Shah,7,2021,Social Studies,77,85,,,
+19,Tanvi Shah,8,2022,Math,69,86,State Yoga Championship,Sports,State
+19,Tanvi Shah,8,2022,Science,72,86,,,
+19,Tanvi Shah,8,2022,English,76,86,Community Wellness Program,Social Work,School
+19,Tanvi Shah,8,2022,Social Studies,79,86,,,
+19,Tanvi Shah,9,2023,Math,71,87,National Yoga Competition,Sports,National
+19,Tanvi Shah,9,2023,Science,74,87,,,
+19,Tanvi Shah,9,2023,English,78,87,District Wellness Ambassador,Social Work,District
+19,Tanvi Shah,9,2023,Social Studies,81,87,,,
+19,Tanvi Shah,10,2024,Math,73,88,National Yoga 2nd Prize,Sports,National
+19,Tanvi Shah,10,2024,Science,76,88,,,
+19,Tanvi Shah,10,2024,English,80,88,State Wellness Ambassador,Social Work,State
+19,Tanvi Shah,10,2024,Social Studies,83,88,,,
+20,Harsh Tiwari,6,2020,Math,80,90,School Cricket Captain,Sports,School
+20,Harsh Tiwari,6,2020,Science,78,90,,,
+20,Harsh Tiwari,6,2020,English,72,90,,,
+20,Harsh Tiwari,6,2020,Social Studies,70,90,,,
+20,Harsh Tiwari,7,2021,Math,82,91,District Cricket Team,Sports,District
+20,Harsh Tiwari,7,2021,Science,80,91,,,
+20,Harsh Tiwari,7,2021,English,74,91,,,
+20,Harsh Tiwari,7,2021,Social Studies,72,91,,,
+20,Harsh Tiwari,8,2022,Math,84,92,State Cricket Selection,Sports,State
+20,Harsh Tiwari,8,2022,Science,82,92,,,
+20,Harsh Tiwari,8,2022,English,76,92,,,
+20,Harsh Tiwari,8,2022,Social Studies,74,92,,,
+20,Harsh Tiwari,9,2023,Math,86,93,State Cricket Team,Sports,State
+20,Harsh Tiwari,9,2023,Science,84,93,,,
+20,Harsh Tiwari,9,2023,English,78,93,,,
+20,Harsh Tiwari,9,2023,Social Studies,76,93,,,
+20,Harsh Tiwari,10,2024,Math,88,94,National Cricket U17 Trials,Sports,National
+20,Harsh Tiwari,10,2024,Science,86,94,,,
+20,Harsh Tiwari,10,2024,English,80,94,,,
+20,Harsh Tiwari,10,2024,Social Studies,78,94,,,
+21,Lakshmi Nambiar,6,2020,Math,76,91,School Kathak Dance,Arts,School
+21,Lakshmi Nambiar,6,2020,Science,74,91,,,
+21,Lakshmi Nambiar,6,2020,English,80,91,,,
+21,Lakshmi Nambiar,6,2020,Hindi,82,91,,,
+21,Lakshmi Nambiar,7,2021,Math,74,92,District Kathak Competition,Arts,District
+21,Lakshmi Nambiar,7,2021,Science,76,92,,,
+21,Lakshmi Nambiar,7,2021,English,83,92,,,
+21,Lakshmi Nambiar,7,2021,Hindi,85,92,,,
+21,Lakshmi Nambiar,8,2022,Math,72,93,State Classical Dance,Arts,State
+21,Lakshmi Nambiar,8,2022,Science,78,93,,,
+21,Lakshmi Nambiar,8,2022,English,86,93,,,
+21,Lakshmi Nambiar,8,2022,Hindi,88,93,,,
+21,Lakshmi Nambiar,9,2023,Math,70,94,National Classical Dance,Arts,National
+21,Lakshmi Nambiar,9,2023,Science,80,94,,,
+21,Lakshmi Nambiar,9,2023,English,89,94,,,
+21,Lakshmi Nambiar,9,2023,Hindi,91,94,,,
+21,Lakshmi Nambiar,10,2024,Math,68,95,National Dance 1st Prize,Arts,National
+21,Lakshmi Nambiar,10,2024,Science,82,95,,,
+21,Lakshmi Nambiar,10,2024,English,92,95,,,
+21,Lakshmi Nambiar,10,2024,Hindi,94,95,,,
+22,Dev Chopra,6,2020,Math,85,92,School Science Club,Technical,School
+22,Dev Chopra,6,2020,Science,88,92,,,
+22,Dev Chopra,6,2020,English,76,92,,,
+22,Dev Chopra,6,2020,Social Studies,74,92,,,
+22,Dev Chopra,7,2021,Math,87,93,District Science Fair Winner,Technical,District
+22,Dev Chopra,7,2021,Science,90,93,Robotics Team,Technical,School
+22,Dev Chopra,7,2021,English,78,93,,,
+22,Dev Chopra,7,2021,Social Studies,76,93,,,
+22,Dev Chopra,8,2022,Math,89,94,State Science Olympiad,Technical,State
+22,Dev Chopra,8,2022,Science,92,94,Robotics Team Captain,Leadership,School
+22,Dev Chopra,8,2022,English,80,94,,,
+22,Dev Chopra,8,2022,Social Studies,78,94,,,
+22,Dev Chopra,9,2023,Math,91,95,National Science Fair 2nd,Technical,National
+22,Dev Chopra,9,2023,Science,94,95,State Robotics Competition,Technical,State
+22,Dev Chopra,9,2023,English,82,95,,,
+22,Dev Chopra,9,2023,Social Studies,80,95,,,
+22,Dev Chopra,10,2024,Math,93,96,National Science Fair 1st,Technical,National
+22,Dev Chopra,10,2024,Science,96,96,National Robotics Championship,Technical,National
+22,Dev Chopra,10,2024,English,84,96,,,
+22,Dev Chopra,10,2024,Social Studies,82,96,,,
+23,Simran Kaur,6,2020,Math,70,88,School Debate,Leadership,School
+23,Simran Kaur,6,2020,Science,72,88,,,
+23,Simran Kaur,6,2020,English,85,88,,,
+23,Simran Kaur,6,2020,Social Studies,83,88,,,
+23,Simran Kaur,7,2021,Math,72,89,District Debate,Leadership,District
+23,Simran Kaur,7,2021,Science,74,89,,,
+23,Simran Kaur,7,2021,English,87,89,School Magazine Writer,Arts,School
+23,Simran Kaur,7,2021,Social Studies,85,89,,,
+23,Simran Kaur,8,2022,Math,74,90,State Debate Winner,Leadership,State
+23,Simran Kaur,8,2022,Science,76,90,,,
+23,Simran Kaur,8,2022,English,90,90,State Essay Competition,Arts,State
+23,Simran Kaur,8,2022,Social Studies,88,90,NGO Teaching Drive,Social Work,School
+23,Simran Kaur,9,2023,Math,76,91,National Debate Participant,Leadership,National
+23,Simran Kaur,9,2023,Science,78,91,,,
+23,Simran Kaur,9,2023,English,93,91,National Essay Award,Arts,National
+23,Simran Kaur,9,2023,Social Studies,91,91,District NGO Lead,Social Work,District
+23,Simran Kaur,10,2024,Math,78,92,National Debate Runner Up,Leadership,National
+23,Simran Kaur,10,2024,Science,80,92,,,
+23,Simran Kaur,10,2024,English,95,92,National Essay 1st Prize,Arts,National
+23,Simran Kaur,10,2024,Social Studies,93,92,State NGO Recognition,Social Work,State
+24,Kunal Bhatia,6,2020,Math,60,80,School Hockey Team,Sports,School
+24,Kunal Bhatia,6,2020,Science,58,80,,,
+24,Kunal Bhatia,6,2020,English,62,80,,,
+24,Kunal Bhatia,6,2020,Social Studies,60,80,,,
+24,Kunal Bhatia,7,2021,Math,62,81,District Hockey Team,Sports,District
+24,Kunal Bhatia,7,2021,Science,60,81,,,
+24,Kunal Bhatia,7,2021,English,64,81,,,
+24,Kunal Bhatia,7,2021,Social Studies,62,81,,,
+24,Kunal Bhatia,8,2022,Math,64,82,State Hockey Selection,Sports,State
+24,Kunal Bhatia,8,2022,Science,62,82,,,
+24,Kunal Bhatia,8,2022,English,66,82,Team Captain,Leadership,School
+24,Kunal Bhatia,8,2022,Social Studies,64,82,,,
+24,Kunal Bhatia,9,2023,Math,66,83,State Hockey Team,Sports,State
+24,Kunal Bhatia,9,2023,Science,64,83,,,
+24,Kunal Bhatia,9,2023,English,68,83,Sports Committee Member,Leadership,School
+24,Kunal Bhatia,9,2023,Social Studies,66,83,,,
+24,Kunal Bhatia,10,2024,Math,68,84,National Hockey Trials,Sports,National
+24,Kunal Bhatia,10,2024,Science,66,84,,,
+24,Kunal Bhatia,10,2024,English,70,84,Sports Committee Head,Leadership,School
+24,Kunal Bhatia,10,2024,Social Studies,68,84,,,
+25,Zara Khan,6,2020,Math,74,89,School Photography Club,Arts,School
+25,Zara Khan,6,2020,Science,72,89,,,
+25,Zara Khan,6,2020,English,82,89,,,
+25,Zara Khan,6,2020,Social Studies,80,89,,,
+25,Zara Khan,7,2021,Math,72,90,District Photography Contest,Arts,District
+25,Zara Khan,7,2021,Science,74,90,,,
+25,Zara Khan,7,2021,English,85,90,School Newspaper Editor,Arts,School
+25,Zara Khan,7,2021,Social Studies,83,90,,,
+25,Zara Khan,8,2022,Math,70,91,State Photography Award,Arts,State
+25,Zara Khan,8,2022,Science,76,91,,,
+25,Zara Khan,8,2022,English,88,91,District Journalism Award,Arts,District
+25,Zara Khan,8,2022,Social Studies,86,91,,,
+25,Zara Khan,9,2023,Math,68,92,National Photography Exhibition,Arts,National
+25,Zara Khan,9,2023,Science,78,92,,,
+25,Zara Khan,9,2023,English,91,92,State Journalism Award,Arts,State
+25,Zara Khan,9,2023,Social Studies,89,92,,,
+25,Zara Khan,10,2024,Math,66,93,National Photography 1st Prize,Arts,National
+25,Zara Khan,10,2024,Science,80,93,,,
+25,Zara Khan,10,2024,English,93,93,National Journalism Award,Arts,National
+25,Zara Khan,10,2024,Social Studies,91,93,,,
